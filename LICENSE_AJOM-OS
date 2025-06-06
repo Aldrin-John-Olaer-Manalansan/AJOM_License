@@ -12,9 +12,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     a. Any individual is allowed to derive this work, but the derived work will be subject to the terms and conditions of this license.
     b. individuals(alone or a group) responsible for the derivative work are specified as the new "Maintainer/s", and is/are added at the end of the "Copyright Holders".
     d. The Software must retain a visible and accessible "Credits" section in all distributed copies and substantial portions (herinafter "the fragments") of the Software.
-    e. All existing copyright holders and contributors specified in the Credits section of each fragment must always be retained.
+    e. All existing informations specified in the Credits section of each fragment must always be retained.
     f. Contributors who make reasonable modifications (such as optimizations, feature additions, significant bug fixes, or to satisfy the project's needs) for a specific fragment must have their names specified at the end of the "Contributors" list, found at the Credits section of that fragment.
-    g. Credit for a Copyright Holder is specified as: "Copyright <year> <name> (contactinfo1 contactinfo2 ...)"
+    g. Credit for a Copyright Holder is specified as: "Copyright <year> <name> (contactinfo1 contactinfo2 ...) <maintained program link>"
     h. Credit for a Maintainer or a Contributor is specified as: "<name> (contactinfo1 contactinfo2 ...)"
 
 3. Permitted Use
